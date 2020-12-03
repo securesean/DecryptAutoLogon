@@ -1,0 +1,4 @@
+C:\Users\seanp\OneDrive\Code\C#\DecryptAutoLogon\DecryptAutoLogon\bin\Release\DecryptAutoLogon.exe
+C:\Users\seanp\OneDrive\Code\C#\DecryptAutoLogon\DecryptAutoLogon\obj\Release\DecryptAutoLogon.csprojAssemblyReference.cache
+C:\Users\seanp\OneDrive\Code\C#\DecryptAutoLogon\DecryptAutoLogon\obj\Release\DecryptAutoLogon.csproj.CoreCompileInputs.cache
+C:\Users\seanp\OneDrive\Code\C#\DecryptAutoLogon\DecryptAutoLogon\obj\Release\DecryptAutoLogon.exe
