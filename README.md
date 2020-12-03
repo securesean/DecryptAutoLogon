@@ -1,5 +1,5 @@
 This tool can extract/decrypt the password that was stored in the LSA by SysInternals [AutoLogon](https://docs.microsoft.com/en-us/sysinternals/downloads/autologon). I made this to be used with [Cobalt Strike's execute-assembly](https://blog.cobaltstrike.com/2018/04/09/cobalt-strike-3-11-the-snake-that-eats-its-tail/):
-<pic>
+![execute assembly screen shot](https://github.com/securesean/DecryptAutoLogon/blob/main/DecryptAutoLogon/exe-assm.jpg)
 Compiled with .NET 3.0 (Windows Vista's default)+. Needs to be run as SYSTEM. Not just as a high intgrity process because the special registry keys need are only visible to SYSTEM and can only be decyrpted by SYSTEM. 
 
 # Why?
@@ -18,4 +18,4 @@ Through pInvoke calls:
 
 So thanks to who actually did the work: keithga, frohwalt
 
-Compiled Version [HERE](https://www/)
+Compiled Version [HERE](https://github.com/securesean/DecryptAutoLogon/blob/main/DecryptAutoLogon/bin/Release/DecryptAutoLogon.exe)
